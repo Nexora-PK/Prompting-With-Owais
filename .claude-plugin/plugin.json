@@ -1,12 +1,12 @@
 {
-  "name": "nexora-prompting",
-  "displayName": "Nexora-Prompting",
-  "description": "Universal prompt engineering and AI workflow architecture system by Nexora PK.",
+  "name": "prompting-with-owais",
+  "displayName": "Prompting With Owais",
+  "description": "Universal prompt engineering and AI workflow architecture system by Owais Kayani.",
   "author": {
-    "name": "Nexora PK / Owais Kayani",
+    "name": "Owais Kayani",
     "url": "https://github.com/Nexora-PK"
   },
   "license": "Proprietary - Free to install and use. Redistribution or re-uploading is strictly prohibited.",
-  "homepage": "https://github.com/Nexora-PK/Nexora-Prompting",
-  "repository": "https://github.com/Nexora-PK/Nexora-Prompting"
+  "homepage": "https://github.com/Nexora-PK/Prompting-With-Owais",
+  "repository": "https://github.com/Nexora-PK/Prompting-With-Owais"
 }

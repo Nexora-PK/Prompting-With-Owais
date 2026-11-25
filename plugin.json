@@ -1,17 +1,17 @@
 {
-  "name": "nexora-prompting",
-  "displayName": "Nexora-Prompting",
+  "name": "prompting-with-owais",
+  "displayName": "Prompting With Owais",
   "version": "1.0.0",
-  "description": "Universal prompt engineering and AI workflow architecture system by Nexora PK. Decomposes complex projects into dependency-ordered task maps, selects optimal prompting techniques, and generates production-grade prompt sequences with anti-hallucination guardrails.",
+  "description": "Universal prompt engineering and AI workflow architecture system by Owais Kayani. Decomposes complex projects into dependency-ordered task maps, selects optimal prompting techniques, and generates production-grade prompt sequences with anti-hallucination guardrails.",
   "author": {
-    "name": "Nexora PK / Owais Kayani",
+    "name": "Owais Kayani",
     "url": "https://github.com/Nexora-PK"
   },
   "license": "Proprietary - Free to install and use. Redistribution or re-uploading is strictly prohibited.",
-  "homepage": "https://github.com/Nexora-PK/Nexora-Prompting",
-  "repository": "https://github.com/Nexora-PK/Nexora-Prompting",
+  "homepage": "https://github.com/Nexora-PK/Prompting-With-Owais",
+  "repository": "https://github.com/Nexora-PK/Prompting-With-Owais",
   "suggestedPrompts": [
-    "Design an end-to-end prompt workflow for my project brief with Nexora-Prompting",
+    "Design an end-to-end prompt workflow for my project brief with Prompting With Owais",
     "Structure and optimize this mega-prompt using RTF and CREATE frameworks",
     "Decompose this application spec into sequenced, anti-hallucinating prompts"
   ]
