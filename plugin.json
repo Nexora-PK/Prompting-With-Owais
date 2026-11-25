@@ -3,7 +3,11 @@
   "displayName": "Universal Prompt Engineering and Architecture",
   "version": "1.0.0",
   "description": "Universal prompt engineering toolkit: decomposes complex projects into dependency-ordered task maps, selects optimal prompting techniques (Direct, Structured, CoT, ReAct, ToT, RAG), and generates ready-to-copy, production-grade prompt sequences with anti-hallucination guardrails.",
-  "author": "Owais",
+  "author": {
+    "name": "Nexora PK / Owais Kayani",
+    "url": "https://github.com/Nexora-PK"
+  },
+  "license": "Proprietary - Free to install and use. Redistribution or re-uploading is strictly prohibited.",
   "homepage": "https://github.com/Nexora-PK/prompt-engineering-plugin",
   "repository": "https://github.com/Nexora-PK/prompt-engineering-plugin",
   "suggestedPrompts": [

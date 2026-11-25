@@ -1,7 +1,8 @@
 # Universal Prompt Engineering & Architecture Plugin
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Compatibility](https://img.shields.io/badge/AI%20Tools-Antigravity%20|%20Claude%20|%20Cursor%20|%20ChatGPT%20|%20Cline-brightgreen.svg)](#installation--setup)
+[![License: Proprietary / All Rights Reserved](https://img.shields.io/badge/License-Proprietary%20|%20All%20Rights%20Reserved-red.svg)](LICENSE)
+[![Usage](https://img.shields.io/badge/Usage-Free%20to%20Install%20&%20Use-brightgreen.svg)](#license)
+[![Compatibility](https://img.shields.io/badge/AI%20Tools-Antigravity%20|%20Claude%20|%20Cursor%20|%20ChatGPT%20|%20Cline-blue.svg)](#installation--setup)
 
 A cross-platform toolkit and skill bundle that turns any AI assistant (**Google Antigravity**, **Claude Code**, **Cursor**, **ChatGPT / Custom GPTs**, **Cline / Roo Code**, **Windsurf**, and **Open WebUI**) into an expert Prompt Engineer and AI Workflow Architect.
 
@@ -135,6 +136,11 @@ Once installed, try asking your AI:
 
 ---
 
-## 📄 License
+## 📄 License & Ownership
 
-MIT License. Free for commercial and personal use.
+**Copyright © 2026 Nexora PK / Owais Kayani. All Rights Reserved.**
+
+- **Grant of Use:** Anyone is free to clone, download, install, and execute this plugin/skill for personal, educational, or commercial AI agent workflows.
+- **Strict Prohibition on Redistribution & Re-uploading:** You are **STRICTLY PROHIBITED** from re-uploading, republishing, hosting mirrors, or claiming ownership of this repository or its contents on GitHub or any other platform under another account or name.
+- **Original Repository:** [https://github.com/Nexora-PK/prompt-engineering-plugin](https://github.com/Nexora-PK/prompt-engineering-plugin)
+- **Legal Enforcement:** Unauthorized re-hosting, re-branding, or distribution violates intellectual property rights and will be subject to DMCA Takedown requests. See the full [LICENSE](LICENSE) file for complete terms.
