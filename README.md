@@ -1,4 +1,4 @@
-# Universal Prompt Engineering & Architecture Plugin
+# Nexora-Prompting - Universal Prompt Engineering System
 
 [![License: Proprietary / All Rights Reserved](https://img.shields.io/badge/License-Proprietary%20|%20All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Usage](https://img.shields.io/badge/Usage-Free%20to%20Install%20&%20Use-brightgreen.svg)](#license)
@@ -30,7 +30,7 @@ A cross-platform toolkit and skill bundle that turns any AI assistant (**Google 
 ## 📂 Repository Structure
 
 ```text
-prompt-engineering-plugin/
+Nexora-Prompting/
 ├── plugin.json                              # Universal plugin manifest (Antigravity & Agent tools)
 ├── README.md                                # Setup & usage documentation
 ├── skills/
@@ -58,19 +58,19 @@ Clone directly into your global plugins folder:
 
 **Windows (PowerShell):**
 ```powershell
-git clone https://github.com/Nexora-PK/prompt-engineering-plugin.git "$HOME\.gemini\config\plugins\prompt-engineering-kit"
+git clone https://github.com/Nexora-PK/Nexora-Prompting.git "$HOME\.gemini\config\plugins\nexora-prompting"
 ```
 
 **macOS / Linux:**
 ```bash
-git clone https://github.com/Nexora-PK/prompt-engineering-plugin.git ~/.gemini/config/plugins/prompt-engineering-kit
+git clone https://github.com/Nexora-PK/Nexora-Prompting.git ~/.gemini/config/plugins/nexora-prompting
 ```
 
 #### Workspace-Only Installation
 Run inside your project root:
 ```bash
 mkdir -p .agents/plugins
-git clone https://github.com/Nexora-PK/prompt-engineering-plugin.git .agents/plugins/prompt-engineering-kit
+git clone https://github.com/Nexora-PK/Nexora-Prompting.git .agents/plugins/nexora-prompting
 ```
 
 ---
@@ -79,8 +79,8 @@ git clone https://github.com/Nexora-PK/prompt-engineering-plugin.git .agents/plu
 
 **Option A (Project Skill):**
 ```bash
-mkdir -p .claude/skills/prompt-engineering
-cp skills/prompt-engineering/SKILL.md .claude/skills/prompt-engineering/SKILL.md
+mkdir -p .claude/skills/nexora-prompting
+cp skills/nexora-prompting/SKILL.md .claude/skills/nexora-prompting/SKILL.md
 ```
 
 **Option B (Add to CLAUDE.md):**
@@ -88,7 +88,7 @@ Add this to your project's `CLAUDE.md`:
 ```markdown
 ## Prompt Engineering & Architecture Workflow
 When asked to create, architect, or optimize prompts or AI workflows:
-- Consult the full specification in `skills/prompt-engineering/SKILL.md`.
+- Consult the full specification in `skills/nexora-prompting/SKILL.md`.
 - Follow the 7-phase execution lifecycle (Phase A through Phase G).
 - Ground all prompt structures in RTF, CREATE, CoT, ReAct, and Tree of Thoughts frameworks.
 - Embed explicit delimiters, anti-hallucination protocols, and readiness checks.
@@ -102,7 +102,7 @@ Copy the pre-configured `.mdc` rule into your project's Cursor rules directory:
 
 ```bash
 mkdir -p .cursor/rules
-cp adapters/cursor/prompt-engineering.mdc .cursor/rules/prompt-engineering.mdc
+cp adapters/cursor/nexora-prompting.mdc .cursor/rules/prompt-engineering.mdc
 ```
 
 ---
@@ -111,10 +111,10 @@ cp adapters/cursor/prompt-engineering.mdc .cursor/rules/prompt-engineering.mdc
 
 - **ChatGPT Custom GPT:**
   1. In the **GPT Builder**, open the **Configure** tab.
-  2. Under **Knowledge**, upload `skills/prompt-engineering/SKILL.md`.
+  2. Under **Knowledge**, upload `skills/nexora-prompting/SKILL.md`.
   3. Paste the contents of `adapters/system-prompts/custom-gpt-system-prompt.txt` into the **Instructions** box.
 - **Claude.ai Projects:**
-  1. In your Project, click **Add Content** -> upload `skills/prompt-engineering/SKILL.md`.
+  1. In your Project, click **Add Content** -> upload `skills/nexora-prompting/SKILL.md`.
   2. Set project instructions to reference the skill for prompt design and workflow architecture.
 
 ---
@@ -142,5 +142,5 @@ Once installed, try asking your AI:
 
 - **Grant of Use:** Anyone is free to clone, download, install, and execute this plugin/skill for personal, educational, or commercial AI agent workflows.
 - **Strict Prohibition on Redistribution & Re-uploading:** You are **STRICTLY PROHIBITED** from re-uploading, republishing, hosting mirrors, or claiming ownership of this repository or its contents on GitHub or any other platform under another account or name.
-- **Original Repository:** [https://github.com/Nexora-PK/prompt-engineering-plugin](https://github.com/Nexora-PK/prompt-engineering-plugin)
+- **Original Repository:** [https://github.com/Nexora-PK/Nexora-Prompting](https://github.com/Nexora-PK/Nexora-Prompting)
 - **Legal Enforcement:** Unauthorized re-hosting, re-branding, or distribution violates intellectual property rights and will be subject to DMCA Takedown requests. See the full [LICENSE](LICENSE) file for complete terms.

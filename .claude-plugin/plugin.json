@@ -1,13 +1,12 @@
 {
-  "name": "prompt-engineering-kit",
-  "displayName": "Universal Prompt Engineering and Architecture",
-  "version": "1.0.0",
-  "description": "Universal prompt engineering toolkit: decomposes complex projects into dependency-ordered task maps, selects optimal prompting techniques, and generates ready-to-copy prompt sequences.",
+  "name": "nexora-prompting",
+  "displayName": "Nexora-Prompting",
+  "description": "Universal prompt engineering and AI workflow architecture system by Nexora PK.",
   "author": {
     "name": "Nexora PK / Owais Kayani",
     "url": "https://github.com/Nexora-PK"
   },
   "license": "Proprietary - Free to install and use. Redistribution or re-uploading is strictly prohibited.",
-  "homepage": "https://github.com/Nexora-PK/prompt-engineering-plugin",
-  "repository": "https://github.com/Nexora-PK/prompt-engineering-plugin"
+  "homepage": "https://github.com/Nexora-PK/Nexora-Prompting",
+  "repository": "https://github.com/Nexora-PK/Nexora-Prompting"
 }

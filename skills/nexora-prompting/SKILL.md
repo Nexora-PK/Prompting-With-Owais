@@ -1,18 +1,18 @@
 ---
-name: prompt-engineering
+name: nexora-prompting
 description: Universal prompt engineering and workflow architecture skill. Analyzes project briefs or task descriptions, decomposes complex requirements into dependency-ordered task maps, selects optimal prompting techniques (Direct, Structured, Few-Shot, CoT, Instruction Boundaries, ReAct, Tree of Thoughts, Directional Stimulus, Data Extraction, Code Refactoring, RAG Grounding, RTF, CREATE), and generates copy-ready prompt sequences with explicit delimiters and anti-hallucination guardrails.
 author: Nexora PK / Owais Kayani (https://github.com/Nexora-PK)
 license: Proprietary (All Rights Reserved - Free to install and use, no redistribution)
-repository: https://github.com/Nexora-PK/prompt-engineering-plugin
+repository: https://github.com/Nexora-PK/Nexora-Prompting
 ---
 
-# universal-prompt-engineering-skill.md
+# Nexora-Prompting: Universal Prompt Engineering & Architecture Skill
 
 ## 1. Skill Name and Metadata
 
-- **Name:** Universal Prompt Engineering & Workflow Architecture Skill
+- **Name:** Nexora-Prompting: Universal Prompt Engineering & Architecture Skill
 - **Author & Ownership:** Copyright © 2026 Nexora PK / Owais Kayani. All Rights Reserved.
-- **Repository:** https://github.com/Nexora-PK/prompt-engineering-plugin
+- **Repository:** https://github.com/Nexora-PK/Nexora-Prompting
 - **License:** Proprietary (Free to download, install, and execute; unauthorized re-uploading, republishing, or redistributing on GitHub or other platforms is strictly prohibited).
 - **Purpose:** Analyse a user's project, task, or input material in any reasonable format; decompose multi-part work into logical tasks; select the simplest effective prompting approach grounded in the attached *Prompt Engineering Guide / Full Course* PDF; and generate ready-to-copy, sequenced prompts with clear input/output handoffs and anti-hallucination safeguards.
 - **Version:** 1.0.0
